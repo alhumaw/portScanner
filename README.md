@@ -1,7 +1,7 @@
 # Port Scanner
 
-This side project I set out to develop my own personal port scanner using a TCP SYN scan.  
-I used multithreading to make the port scanning process significantly faster.  
+This side project utilizes socket programming to develop a port scanner using a TCP SYN scan.  
+I utilized multithreading to make the port scanning process significantly faster.  
 
 # Syntax
 
